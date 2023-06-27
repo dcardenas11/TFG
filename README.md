@@ -1,5 +1,5 @@
-# TFG 
-## Doble Grado en Ingeniería Informática y Matemáticas
+# Predicción de Series Temporales aplicado a modelos de Disciplinado de Relojes
+## TFG - Doble Grado en Ingeniería Informática y Matemáticas
 
 ### Resumen:
 En un mundo globalizado completamente interconectado cobran una gran importancia los algoritmos de disciplinado de relojes atómicos, que son precisos instrumentos usados para la sincronización de procesos de cualquier tipo. Al mismo tiempo, la inteligencia artificial se muestra como un campo en continuo desarrollo que demuestra ser aplicable para muchas tareas de diversa naturaleza. Ambos conceptos convergen cuando realizamos predicciones con series temporales y las aplicamos a datos que se obtienen de experimentos previos con algoritmos de disciplinado de relojes.
@@ -14,13 +14,13 @@ Todo el código desarrollado durante el transcurso de este trabajo puede encontr
 Series Temporales, Aprendizaje Automático, LSTM, Relojes Atómicos, Algoritmo de Disciplinado
 
 
-
+##### Autor: Daniel Cárdenas Castro
 ___
 
 
 
-# Bachelor Thesis
-## Dual Degree in Mathematics and Computer Engineering
+# Time Series Prediction applied to Clock Discipline Modeling
+## Bachelor Thesis - Dual Degree in Mathematics and Computer Engineering
 
 ### Abstract:
 In a fully globalized interconnected world, clock discipline algorithms play a crucial role as they are precise instruments used for the synchronization of processes. In addition, artificial intelligence emerges as a continuously evolving field with multiple practical applications. The meeting point of these concepts occurs when making predictions using time series data previously obtained from experiments involving clock discipline algorithms.
@@ -33,3 +33,7 @@ All the code developed throughout this work can be found in this repository, alt
 
 ### Keywords:
 Time Series, Machine Learning, LSTM, Atomic Clocks, Discipline Algorithm
+
+
+##### Author: Daniel Cárdenas Castro
+
