@@ -15,7 +15,11 @@ Series Temporales, Aprendizaje Automático, LSTM, Relojes Atómicos, Algoritmo d
 
 
 
-# Bacherlor Thesis
+___
+
+
+
+# Bachelor Thesis
 ## Dual Degree in Mathematics and Computer Engineering
 
 ### Abstract:
